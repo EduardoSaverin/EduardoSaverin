@@ -5,7 +5,7 @@
 </div>
 <br>
 
-- 🔭 I’m currently working on Natrual Language processing projects
+- 🔭 I’m currently working on Natrual Language Processing projects
 - 🌱 I’m currently learning Deep Learning
 - 👯 I’m looking to collaborate on Github
 - 💬 Ask me about Data structures and algorithms, NLP, Spring Boot, Python, Javascript, RabbitMQ, Redis and many more.
