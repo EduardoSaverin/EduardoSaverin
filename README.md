@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning Deep Learning
 - 👯 I’m looking to collaborate on Github
 - 💬 Ask me about Data structures and algorithms, NLP, Spring Boot, Python, Javascript, RabbitMQ, Redis and many more.
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/developersumit/)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/developersumit/) &nbsp;  [![Discord](https://img.shields.io/discord/746940982376792074.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/ykCRyFr)
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I like :satisfied: to work on front-end :joy:
 
