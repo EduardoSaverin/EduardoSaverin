@@ -20,8 +20,8 @@
 
 [![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=1690577)](https://stackoverflow.com/users/1690577/eduardo-savrin)
   
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31fdtdx7zundkmrj3laecoptdbdm&cover_image=true)](https://github.com/kittinan/spotify-github-profile)
-
+<!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31fdtdx7zundkmrj3laecoptdbdm&cover_image=true)](https://github.com/kittinan/spotify-github-profile) -->
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=EduardoSaverin)](https://github.com/KnlnKS/leetcode-stats)
 [![Visits Badge](https://badges.pufler.dev/visits/EduardoSaverin/EduardoSaverin)](https://github.com/EduardoSaverin)
 </div>
 
